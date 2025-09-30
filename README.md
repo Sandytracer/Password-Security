@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (293)" src="https://github.com/user-attachments/assets/8cb5014d-f07a-4f21-9c97-bfe6d8b6cd15" /># Task 6 Report – Password Security
+Task 6:Password Security
 
 ## 1. Objective
 To create strong passwords, evaluate their strength using online tools, and understand best practices for secure authentication.
@@ -43,9 +43,6 @@ To create strong passwords, evaluate their strength using online tools, and unde
 
 ## 6. Conclusion
 This task demonstrated how password complexity and length affect security. Testing across tools proved that simple passwords are easily cracked, while longer, complex passphrases offer strong protection. Combined with MFA and password managers, this ensures robust authentication practices.
-<img width="1920" height="1080" alt="Screenshot (293)" src="https://github.com/user-attachments/assets/0180e987-e070-4809-8f86-71f369e51896" />
-
-<img width="1920" height="1080" alt="Screenshot (298)" src="https://github.com/user-attachments/assets/bb8612af-9634-419c-985c-3763ee916a38" />
 
 ---
 
